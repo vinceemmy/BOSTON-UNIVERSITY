@@ -29,7 +29,7 @@ Ave. Age, BMI, Temp, Heart Rate, Blood Pressure, Cholesterol on Pivot Table   | 
 ![](ave_all_pivot.png) 			         |			 ![](ave_all_visuals.png)
 ---
 ---
-# OBSERVATIONS 
+# Observations 
 
 ### The above data shows that; 
 #### The average height and weight between the Males and Females are almost at the same level.
@@ -39,7 +39,7 @@ Ave. Age, BMI, Temp, Heart Rate, Blood Pressure, Cholesterol on Pivot Table   | 
 #### The figures on other data such as the Average Age, Body Mass Index (BMI), Temperate, Heart Rate, Blood Pressure and Cholesterol are at almost the same level between the Males and Females.
 ---
 ---
-# COMMENTS
+# Comments
 #### Students who did not specify if they are smokers or not and students who did not specify if they have diabetes or not should be made to login into their school portal and complete the Forms so as to get a concise figure on both categories.
 ---
 ---
