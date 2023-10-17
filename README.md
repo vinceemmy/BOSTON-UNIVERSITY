@@ -1,5 +1,6 @@
+![](Boston-University-Logo1.png)
 # BOSTON UNIVERSITY
-![](Boston-University-Logo.png)
+
 ## Introduction
 #### Boston University is a private university accepting students for the new academic session into different faculties. The data shown in this analysis was collected from prospective students as they filled the online registration form.  The purpose of this analysis is to determine the state of health of the students which could be used in case of emergency and also for record and research purposes.
 ---
