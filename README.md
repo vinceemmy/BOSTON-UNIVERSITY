@@ -17,7 +17,7 @@
 #### 5.	To determine the Average Age, Average Body Mass Index (BMI), Average Temperature, Average Heart Rate, Average Blood Pressure, Average Cholesterol of the students.
 ---
 
-Ave. Height & Weight on Pivot Table                 | 		Ave. Height & Weight on Chart
+Average Height & Weight on Pivot Table                 | 		Average Height & Weight on Chart
 :---------------------------------------------:	         |		:----------------------------------------:
 ![](ave_weight_height_pivot.png) 	         | 		![](ave_weight_height_visuals.png)
 Smokers and Nonsmokers on Pivot Table         | 		Smokers and Nonsmokers on Chart
